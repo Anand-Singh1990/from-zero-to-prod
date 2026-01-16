@@ -37,4 +37,3 @@ Authoritative DNS Server
 - **DNS** finds the server
 - **TLS/HTTPS** secures the connection
 - DNS never knows or cares if your server is up 
-
